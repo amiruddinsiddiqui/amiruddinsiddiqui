@@ -2,8 +2,19 @@
 I’m Amiruddin, a software engineer focused on building reliable systems—always learning, occasionally debugging, and interested in contributing to open-source.
 
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjh1NWJvenBsdHpvZHZteTRqcDB1MmduYWlob2pndzZkdXVxNzMycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" alt="Coding GIF" width="400"/>
+</p>
+
+<p align="center">
+  Working on something cool… 🚀
+</p>
+
+---
+
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mo-amir-sidd) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mo-amir-sidd)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A9396?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amiruddin.is-a.dev/)
 
 ## 💻 Tech Stack
 
@@ -56,6 +67,4 @@ I’m Amiruddin, a software engineer focused on building reliable systems—alwa
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amiruddinsiddiqui&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amiruddinsiddiqui&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
