@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Amiruddin, a software engineer focused on building reliable systems—always learning, occasionally debugging, and interested in contributing to open-source.
+I'm Amiruddin, a CSE student curious about how things work under the hood. I build stuff, break it, fix it, and occasionally ship it. Currently diving deeper into AI/ML while building backend projects that actually work.
 
 
 <p align="center">
